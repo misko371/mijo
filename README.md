@@ -1,0 +1,2 @@
+# mijo
+Mijo.sk
